@@ -33,7 +33,7 @@ public class StarProgram1 {
 		 
 		 System.out.println();
 		 
-		 
+		 System.out.println("hi");
 		 
 		 
 		 
